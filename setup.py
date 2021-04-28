@@ -9,8 +9,8 @@ with open("requirements.txt") as f:
 setuptools.setup(
     name="my-wallet",
     version="1.0",
-    author="Kirill Churkin",
-    author_email="author@example.com",
+    author="Lebedev Fedor",
+    author_email="teoleb@inbox.ru",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
